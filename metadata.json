@@ -1,0 +1,10 @@
+{
+  "name": "NASA AI",
+  "description": "Your Universal Artificial Intelligence. Imagine it. Ask it. Create it. Multimodal assistant for chat, voice, image editing, video generation, document analysis, and creative tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
